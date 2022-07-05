@@ -71,6 +71,10 @@ ul li a {
   transition: background 400m;
 }
 
+ul li a i {
+  margin-right: 10px;
+}
+
 ul li a:hover{
   background: #6A98F0;
 }
