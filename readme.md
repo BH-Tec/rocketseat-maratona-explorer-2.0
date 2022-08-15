@@ -25,12 +25,3 @@ Desenvolver um projeto no estilo do LinkTree
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-
-## Aulas
-
-- Aula 1 
-- Aula 2
-- Aula 3
-- Aula 4
-
----
